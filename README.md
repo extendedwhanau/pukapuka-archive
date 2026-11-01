@@ -22,7 +22,6 @@ If the keys are empty, the app still works with **this browser only** (previous 
 
 - **↓** — JSON backup  
 - **Save HTML copy** — full portable page  
-- **Restore** — earlier save from this browser  
 - JSON import supports **merge** to combine collections  
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).

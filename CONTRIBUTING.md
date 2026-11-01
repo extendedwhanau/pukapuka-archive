@@ -36,6 +36,5 @@ Each browser keeps its own copy. To publish for everyone the old way:
 
 ## Recovery
 
-- **Restore** brings back an earlier browser save.
 - Re-import a JSON backup or open a saved HTML copy.
 - If Supabase has good data but your browser looks wrong, hard-refresh; the shared archive wins on load when configured.

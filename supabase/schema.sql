@@ -60,3 +60,6 @@ create policy "covers_public_update"
 create policy "covers_public_delete"
   on storage.objects for delete
   using (bucket_id = 'covers');
+
+-- Favourites
+alter table public.books add column if not exists favourite boolean not null default false;
